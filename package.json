@@ -1,0 +1,16 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Rodrigo Albornoz <rodrigo.albornoz.f@gmail.com> (https://rodrigoalbornoz.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^10.4.0"
+  }
+}
